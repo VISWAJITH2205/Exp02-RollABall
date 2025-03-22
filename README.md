@@ -9,7 +9,7 @@ To develop a 3D application for rotating the gaming objects in unity.
 Start
 
 ### STEP 2:
-Click File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (Expno1)
+Click File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (Expno1) 
 
 ### STEP 3:
 Click Hierarchy -> 3DObject -> Plane
